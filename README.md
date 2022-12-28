@@ -105,7 +105,7 @@ The docs include an extensive [Tutorial](https://docs.rxresu.me/tutorial) sectio
 
 ## Build from Source
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AmruthPillai/Reactive-Resume)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/asadal/Reactive-Resume)
 
 Initially building the image and project on Gitpod will take at least ~10 minutes, so please be patient on first launch.
 
@@ -131,8 +131,8 @@ Use the [GitHub Issues](https://github.com/AmruthPillai/Reactive-Resume/issues/n
 
 Reactive Resume would be nothing without the folks who supported me and kept the project alive in the beginning, and your continued support is what keeps me going. If you found Reactive Resume to be useful, helpful or just insightful and appreciate the effort I took to make the project, please consider donating as little or as much as you can.
 
-### [GitHub Sponsor](https://github.com/sponsors/AmruthPillai)
-### [PayPal](https://paypal.me/RajaRajanA)
+### [GitHub Sponsor](https://github.com/sponsors/asadal)
+### [PayPal](https://paypal.me/asadal)
 
 ## Infrastructure
 
